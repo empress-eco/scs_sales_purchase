@@ -1,8 +1,17 @@
-# Empress SCS Sales Purchase: Transform Your Sales and Purchase Operations ![Empress SCS Sales Purchase Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
+
+<div align="center">
+
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+
+Empress SCS Sales Purchase: Transform Your Sales and Purchase Operations 
 
 Welcome to **Empress SCS Sales Purchase**, your ultimate tool for efficient and streamlined sales and purchase management in Empress. Ideal for businesses seeking to upgrade their selling and buying processes, our solution eliminates manual, time-consuming tasks, paving the way for improved business operations. 
 
 Explore our [Documentation](https://grow.empress.eco/) for in-depth insights or report a bug and request a feature through our [Issues Page](https://github.com/empress-eco/scs_sales_purchase/issues).
+
+</div>
+
+
 
 ## About Empress SCS Sales Purchase
 
